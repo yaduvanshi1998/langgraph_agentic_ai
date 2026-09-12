@@ -1,1 +1,1 @@
-# langgraph_agenti_ai
+# langgraph_agentic_ai
